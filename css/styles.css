@@ -3,3 +3,31 @@
 body { 
 	background: #a10023;
 }
+
+h1 {
+	background: yellow;
+	border-radius: 100px;
+	color: #fff;
+	line-height: 100px;
+	text-align: center;
+	height: 100px;
+	width: 100px;
+}
+h1:hover{
+	background: blue;
+	margin-top: 50px;
+	transition: all .5s;
+}
+h3 {
+	background: teal;
+}
+p {
+	background: cornflowerblue;
+}
+a {
+	background: gold;
+	display: block;
+	height: 100px;
+	width: 100px;
+
+}
